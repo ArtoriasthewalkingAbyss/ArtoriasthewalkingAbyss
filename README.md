@@ -1,6 +1,6 @@
 ### Hola  soy Agustín Castro 👋
 
-Soy Desallorrador Wed actualmente estoy desarrollando projectos con JavaScript y React, en los cuales estoy poniendo en practica los metodos y Apis de JavaScript, y en el caso de React estoy implementando hooks y creando componentes
+Soy Desallorrador Wed y QA tester actualmente estoy desarrollando projectos con JavaScript, React.js, Node.js Phaser y realizar testing con cypress en los cuales estoy poniendo en practica los metodos y Apis de JavaScript, y en el caso de React estoy implementando hooks y creando componentes
 
 ## 🛠  Tecnologias y Herramientas
 
@@ -34,6 +34,12 @@ Soy Desallorrador Wed actualmente estoy desarrollando projectos con JavaScript y
 [<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Cypress-282C34?logo=cypress&logoColor=00aa00" alt="Cypress.js logo" title="Cypress.js" height="25" />][learning_next_anchor]
+&nbsp;
+[<img src="https://phaser.io/images/logo/logo-download.png" alt="Phaser.js logo" title="Phaser.js" height="40" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Selenium-282C34?logo=selenium&logoColor=43b02a" alt="Phaser.js logo" title="Phaser.js" height="25" />][learning_next_anchor]
 &nbsp;
 
 ## 👾  Lo que me interesa aprender este año
