@@ -1,6 +1,6 @@
 ### Hola  soy Agustín Castro 👋
 
-Soy Desallorrador Wed y QA tester actualmente estoy desarrollando projectos con JavaScript, React.js, Node.js Phaser y realizar testing con cypress en los cuales estoy poniendo en practica los metodos y Apis de JavaScript, y en el caso de React estoy implementando hooks y creando componentes
+Soy Desallorrador Wed y QA tester actualmente estoy desarrollando projectos con JavaScript, React.js, Node.js Phaser y realizo testing con playwright
 
 ## 🛠  Tecnologias y Herramientas
 
